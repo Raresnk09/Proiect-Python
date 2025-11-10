@@ -1,0 +1,7 @@
+Scop: pune totul cap la cap, testează și se ocupă de erori.
+
+Responsabilități:
+	•	Integrează toate fișierele/funțiile într-un singur script final.
+	•	Testează cazuri diferite (EUR→RON, USD→EUR etc.).
+	•	Verifică dacă interfața funcționează corect și tratează excepțiile (API down, input invalid etc.).
+	•	Creează mesaje de eroare prietenoase pentru utilizator.
