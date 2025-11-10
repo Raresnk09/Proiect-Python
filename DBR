@@ -1,0 +1,5 @@
+Scop: conectarea la API și obținerea cursurilor actualizate.
+
+Responsabilități:
+	•	Alege un API public (ex: exchangerate.host).
+	•	Creează o funcție care face request către API și extrage rata dorită.
