@@ -1,0 +1,7 @@
+Scop: scrie logica matematică pentru conversie.
+
+Responsabilități:
+	•	Primește 3 argumente:
+valoare, moneda_sursa, moneda_destinatie.
+	•	Returnează rezultatul conversiei (de exemplu: 100 EUR → 490 RON).
+	•	Poate folosi un dicționar cu rate temporare (până API-ul e gata).
