@@ -1,0 +1,9 @@
+Scop: creează o interfață grafică simplă (Tkinter) pentru a face aplicația ușor de folosit.
+
+Responsabilități:
+	•	Folosește Tkinter pentru UI.
+	•	Creează câmpuri de introducere pentru:
+	•	Valoarea de convertit.
+	•	Alegerea monedei sursă și destinație (ComboBox sau Entry).
+	•	Un buton “Convert” care apelează funcțiile celorlalți.
+	•	Afișează rezultatul în etichetă (Label).
